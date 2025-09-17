@@ -1,0 +1,388 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EventTicketingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|d:\\eventticketingsystem\\eventticketingsystem.api\\dtos\\bookticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|solutionrelative:eventticketingsystem.api\\dtos\\bookticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF389C7D-1918-4AB6-9315-DC0FD52CE378}|EventTicketingSystem.Application\\EventTicketingSystem.Application.csproj|d:\\eventticketingsystem\\eventticketingsystem.application\\iservices\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF389C7D-1918-4AB6-9315-DC0FD52CE378}|EventTicketingSystem.Application\\EventTicketingSystem.Application.csproj|solutionrelative:eventticketingsystem.application\\iservices\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|d:\\eventticketingsystem\\eventticketingsystem.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|solutionrelative:eventticketingsystem.api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF389C7D-1918-4AB6-9315-DC0FD52CE378}|EventTicketingSystem.Application\\EventTicketingSystem.Application.csproj|d:\\eventticketingsystem\\eventticketingsystem.application\\eventticketingsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF389C7D-1918-4AB6-9315-DC0FD52CE378}|EventTicketingSystem.Application\\EventTicketingSystem.Application.csproj|solutionrelative:eventticketingsystem.application\\eventticketingsystem.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EEC455-D606-4E34-BB60-23E90526D428}|EventTicketingSystem.Infrastructure\\EventTicketingSystem.Infrastructure.csproj|d:\\eventticketingsystem\\eventticketingsystem.infrastructure\\data\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EEC455-D606-4E34-BB60-23E90526D428}|EventTicketingSystem.Infrastructure\\EventTicketingSystem.Infrastructure.csproj|solutionrelative:eventticketingsystem.infrastructure\\data\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|d:\\eventticketingsystem\\eventticketingsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|solutionrelative:eventticketingsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EDE0E-9293-4036-9475-E5C0806339C7}|EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj|d:\\eventticketingsystem\\eventticketingsystem.domain\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EDE0E-9293-4036-9475-E5C0806339C7}|EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj|solutionrelative:eventticketingsystem.domain\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|d:\\eventticketingsystem\\eventticketingsystem.api\\dtos\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|solutionrelative:eventticketingsystem.api\\dtos\\createeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|d:\\eventticketingsystem\\eventticketingsystem.api\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|solutionrelative:eventticketingsystem.api\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|d:\\eventticketingsystem\\eventticketingsystem.api\\dtos\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|solutionrelative:eventticketingsystem.api\\dtos\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EEC455-D606-4E34-BB60-23E90526D428}|EventTicketingSystem.Infrastructure\\EventTicketingSystem.Infrastructure.csproj|d:\\eventticketingsystem\\eventticketingsystem.infrastructure\\migrations\\20250807094508_ticketbookingmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EEC455-D606-4E34-BB60-23E90526D428}|EventTicketingSystem.Infrastructure\\EventTicketingSystem.Infrastructure.csproj|solutionrelative:eventticketingsystem.infrastructure\\migrations\\20250807094508_ticketbookingmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|d:\\eventticketingsystem\\eventticketingsystem.api\\eventticketingsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|solutionrelative:eventticketingsystem.api\\eventticketingsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|d:\\eventticketingsystem\\eventticketingsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F82237-6493-4B73-B276-670FC69C9776}|EventTicketingSystem.API\\EventTicketingSystem.API.csproj|solutionrelative:eventticketingsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EEC455-D606-4E34-BB60-23E90526D428}|EventTicketingSystem.Infrastructure\\EventTicketingSystem.Infrastructure.csproj|d:\\eventticketingsystem\\eventticketingsystem.infrastructure\\eventticketingsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9EEC455-D606-4E34-BB60-23E90526D428}|EventTicketingSystem.Infrastructure\\EventTicketingSystem.Infrastructure.csproj|solutionrelative:eventticketingsystem.infrastructure\\eventticketingsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EDE0E-9293-4036-9475-E5C0806339C7}|EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj|d:\\eventticketingsystem\\eventticketingsystem.domain\\entites\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EDE0E-9293-4036-9475-E5C0806339C7}|EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj|solutionrelative:eventticketingsystem.domain\\entites\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EDE0E-9293-4036-9475-E5C0806339C7}|EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj|d:\\eventticketingsystem\\eventticketingsystem.domain\\entites\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EDE0E-9293-4036-9475-E5C0806339C7}|EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj|solutionrelative:eventticketingsystem.domain\\entites\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EDE0E-9293-4036-9475-E5C0806339C7}|EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj|d:\\eventticketingsystem\\eventticketingsystem.domain\\entites\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EDE0E-9293-4036-9475-E5C0806339C7}|EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj|solutionrelative:eventticketingsystem.domain\\entites\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EDE0E-9293-4036-9475-E5C0806339C7}|EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj|d:\\eventticketingsystem\\eventticketingsystem.domain\\entites\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EDE0E-9293-4036-9475-E5C0806339C7}|EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj|solutionrelative:eventticketingsystem.domain\\entites\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EDE0E-9293-4036-9475-E5C0806339C7}|EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj|d:\\eventticketingsystem\\eventticketingsystem.domain\\enum\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627EDE0E-9293-4036-9475-E5C0806339C7}|EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj|solutionrelative:eventticketingsystem.domain\\enum\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627EDE0E-9293-4036-9475-E5C0806339C7}|EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj|d:\\eventticketingsystem\\eventticketingsystem.domain\\eventticketingsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{627EDE0E-9293-4036-9475-E5C0806339C7}|EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj|solutionrelative:eventticketingsystem.domain\\eventticketingsystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1548C3-FADE-457B-8ECC-05CA8841655C}|EventTicketingSystem.Tests\\EventTicketingSystem.Tests.csproj|d:\\eventticketingsystem\\eventticketingsystem.tests\\eventticketingsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E1548C3-FADE-457B-8ECC-05CA8841655C}|EventTicketingSystem.Tests\\EventTicketingSystem.Tests.csproj|solutionrelative:eventticketingsystem.tests\\eventticketingsystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1548C3-FADE-457B-8ECC-05CA8841655C}|EventTicketingSystem.Tests\\EventTicketingSystem.Tests.csproj|d:\\eventticketingsystem\\eventticketingsystem.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1548C3-FADE-457B-8ECC-05CA8841655C}|EventTicketingSystem.Tests\\EventTicketingSystem.Tests.csproj|solutionrelative:eventticketingsystem.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 383,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.Application\\IServices\\ILogin.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.Application\\IServices\\ILogin.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.Application\\IServices\\ILogin.cs",
+              "RelativeToolTip": "EventTicketingSystem.Application\\IServices\\ILogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T04:23:50.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.API\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "EventTicketingSystem.API\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T13:35:41.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookTicketDto.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\DTOs\\BookTicketDto.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.API\\DTOs\\BookTicketDto.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\DTOs\\BookTicketDto.cs",
+              "RelativeToolTip": "EventTicketingSystem.API\\DTOs\\BookTicketDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:11:51.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventTicketingSystem.Application",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.Application\\EventTicketingSystem.Application.csproj",
+              "RelativeDocumentMoniker": "EventTicketingSystem.Application\\EventTicketingSystem.Application.csproj",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.Application\\EventTicketingSystem.Application.csproj",
+              "RelativeToolTip": "EventTicketingSystem.Application\\EventTicketingSystem.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-08T04:21:02.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateEventDto.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\DTOs\\CreateEventDto.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.API\\DTOs\\CreateEventDto.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\DTOs\\CreateEventDto.cs",
+              "RelativeToolTip": "EventTicketingSystem.API\\DTOs\\CreateEventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T13:45:10.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\DTOs\\RoleDto.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.API\\DTOs\\RoleDto.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\DTOs\\RoleDto.cs",
+              "RelativeToolTip": "EventTicketingSystem.API\\DTOs\\RoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:13:50.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.Domain\\Entites\\User.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.Domain\\Entites\\User.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.Domain\\Entites\\User.cs",
+              "RelativeToolTip": "EventTicketingSystem.Domain\\Entites\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:44:27.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketDbContext.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.Infrastructure\\Data\\TicketDbContext.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.Infrastructure\\Data\\TicketDbContext.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.Infrastructure\\Data\\TicketDbContext.cs",
+              "RelativeToolTip": "EventTicketingSystem.Infrastructure\\Data\\TicketDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T07:09:06.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EventTicketingSystem.API\\appsettings.json",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\appsettings.json",
+              "RelativeToolTip": "EventTicketingSystem.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-06T06:59:01.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRoleDto.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\DTOs\\UserRoleDto.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.API\\DTOs\\UserRoleDto.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\DTOs\\UserRoleDto.cs",
+              "RelativeToolTip": "EventTicketingSystem.API\\DTOs\\UserRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:14:10.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventTicketingSystem.API.csproj",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\EventTicketingSystem.API.csproj",
+              "RelativeDocumentMoniker": "EventTicketingSystem.API\\EventTicketingSystem.API.csproj",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\EventTicketingSystem.API.csproj",
+              "RelativeToolTip": "EventTicketingSystem.API\\EventTicketingSystem.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T07:13:32.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventTicketingSystem.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.Infrastructure\\EventTicketingSystem.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "EventTicketingSystem.Infrastructure\\EventTicketingSystem.Infrastructure.csproj",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.Infrastructure\\EventTicketingSystem.Infrastructure.csproj",
+              "RelativeToolTip": "EventTicketingSystem.Infrastructure\\EventTicketingSystem.Infrastructure.csproj",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T06:42:42.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.API\\Program.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.API\\Program.cs",
+              "RelativeToolTip": "EventTicketingSystem.API\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T07:01:16.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleType.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.Domain\\Enum\\RoleType.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.Domain\\Enum\\RoleType.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.Domain\\Enum\\RoleType.cs",
+              "RelativeToolTip": "EventTicketingSystem.Domain\\Enum\\RoleType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T04:19:35.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.Domain\\Entites\\UserRole.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.Domain\\Entites\\UserRole.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.Domain\\Entites\\UserRole.cs",
+              "RelativeToolTip": "EventTicketingSystem.Domain\\Entites\\UserRole.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIBJwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:47:45.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.Domain\\Entites\\Role.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.Domain\\Entites\\Role.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.Domain\\Entites\\Role.cs",
+              "RelativeToolTip": "EventTicketingSystem.Domain\\Entites\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:45:01.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.Domain\\Entites\\Event.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.Domain\\Entites\\Event.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.Domain\\Entites\\Event.cs",
+              "RelativeToolTip": "EventTicketingSystem.Domain\\Entites\\Event.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:45:29.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.Domain\\Entites\\Ticket.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.Domain\\Entites\\Ticket.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.Domain\\Entites\\Ticket.cs",
+              "RelativeToolTip": "EventTicketingSystem.Domain\\Entites\\Ticket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:45:47.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventTicketingSystem.Domain.csproj",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj",
+              "RelativeDocumentMoniker": "EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj",
+              "RelativeToolTip": "EventTicketingSystem.Domain\\EventTicketingSystem.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T06:43:45.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EventTicketingSystem.Tests.csproj",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.Tests\\EventTicketingSystem.Tests.csproj",
+              "RelativeDocumentMoniker": "EventTicketingSystem.Tests\\EventTicketingSystem.Tests.csproj",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.Tests\\EventTicketingSystem.Tests.csproj",
+              "RelativeToolTip": "EventTicketingSystem.Tests\\EventTicketingSystem.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T06:43:05.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "EventTicketingSystem.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:40:45.466Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 17,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250807094508_TicketBookingMigration.cs",
+              "DocumentMoniker": "D:\\EventTicketingSystem\\EventTicketingSystem.Infrastructure\\Migrations\\20250807094508_TicketBookingMigration.cs",
+              "RelativeDocumentMoniker": "EventTicketingSystem.Infrastructure\\Migrations\\20250807094508_TicketBookingMigration.cs",
+              "ToolTip": "D:\\EventTicketingSystem\\EventTicketingSystem.Infrastructure\\Migrations\\20250807094508_TicketBookingMigration.cs",
+              "RelativeToolTip": "EventTicketingSystem.Infrastructure\\Migrations\\20250807094508_TicketBookingMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:45:09.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
